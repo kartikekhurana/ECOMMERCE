@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../components/layout/layout.js";
-const policy = () => {
+const Policy = () => {
   return (
     <Layout>
       <h1>Privacy Policy Page</h1>
@@ -8,4 +8,4 @@ const policy = () => {
   );
 };
 
-export default policy;
+export default Policy;
